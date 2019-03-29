@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yelongh/AndroidStudioProjects/WishPrice/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/yelongh/AndroidStudioProjects/WishPrice/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e16b6dbb79aceab77aa8c0ac4c6f9b941f270119/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yelongh/AndroidStudioProjects/WishPrice/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="354948899ecd9f01c9068e71d83572ba517eda66">
+        <dex dex="/Users/yelongh/AndroidStudioProjects/WishPrice/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f2ca0601acb45f10f973d321f5c3820c11741cf6/classes.dex" />
+    </item>
+
+</items>
